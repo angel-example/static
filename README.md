@@ -1,5 +1,5 @@
 # static
-Example of serving static files with Angel.
+Example of [serving static files with Angel](https://github.com/angel-dart/static).
 
 By default, files are served out of `web/`. In [production mode](https://github.com/angel-dart/angel/wiki/Production-Mode),
 files will be served out of `build/web` by default.
